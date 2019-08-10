@@ -13,3 +13,4 @@
 
 原型模式：[原型模式-通过克隆创建对象](https://www.turbosnail.top/blog/design-pattern-prototype/)
 
+建造者模式：[建造者模式-一步步组装复杂的对象](https://www.turbosnail.top/blog/design-pattern-builder/)
