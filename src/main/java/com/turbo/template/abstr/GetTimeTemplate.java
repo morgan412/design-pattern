@@ -16,7 +16,7 @@ public abstract class GetTimeTemplate {
     /**
      * 模板方法 固定流程方法
      */
-    public long getTime() {
+    public final long getTime() {
         // 获取起始时间
         long t1 = System.currentTimeMillis();
 
