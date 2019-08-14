@@ -17,6 +17,7 @@
 
 ## 结构型
 
+适配器模式：[适配器模式-通过适配器来复用](https://turbosnail.top/blog/design-pattern-adapter/)
 
 ## 行为型
 
